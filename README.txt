@@ -17,4 +17,4 @@ To run a script, right click on file name in the file explorer and click 'Run'. 
 
 Output from script will appear in remix terminal.
 
-Etherscan address: 0x9332497a49ba9969d4d63513356add30bbf7b908
+Etherscan address: https://rinkeby.etherscan.io/address/0x9332497a49ba9969d4d63513356add30bbf7b908
